@@ -1,7 +1,7 @@
 {
   "name": "js-course",
   "version": "1.0.0",
-  "main": "lib/formatDate/formatDate.js",
+  "main": "formatDate/formatDate.js",
   "scripts": {
     "print": "node script.js"
   },
