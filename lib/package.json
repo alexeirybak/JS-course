@@ -1,5 +1,5 @@
 {
-  "name": "js-course",
+  "name": "dateFormatter",
   "version": "1.0.0",
   "main": "formatDate/formatDate.js",
   "scripts": {
